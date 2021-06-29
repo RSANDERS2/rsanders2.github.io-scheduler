@@ -2,17 +2,6 @@
 
 05 Third-Party APIs: Work Day Scheduler
 
-
-
-
-
-
-
-
-
-
-
-
 The project meets the following criteria: 
 
 GIVEN I am using a daily planner to create a schedule
@@ -29,6 +18,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-The project can be found at: 
+The project can be found at: https://rsanders2.github.io/rsanders2.github.io-scheduler/
 
 <img width="1440" alt="Screen Shot 2021-06-28 at 9 45 02 PM" src="https://user-images.githubusercontent.com/84297480/123724354-32733780-d85a-11eb-8ca0-e9e045bd106e.png">
